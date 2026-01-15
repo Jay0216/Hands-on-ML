@@ -1,0 +1,48 @@
+First Get the Data with Features and Labals (supervised learning)
+
+
+(Math Concept involved stats and probability)
+
+Then Read it using pandas data frame
+
+and Plot it using matplot lib
+
+set colors for label and then find pattern
+
+and write it down in your word in a different place
+
+and validate that your rule using like this by writing that rule as a logic
+
+ex - : 
+
+df = pd.read_csv("F:/Machine Learning Hands On/Hands on ML/student_details.csv")
+
+# def rule(row):
+#     return 1 if row["hours_studied"] > 4 and row["attendance"] > 65 else 0
+
+# df["rule_pred"] = df.apply(rule, axis=1)
+
+#     accuracy = (df["rule_pred"] == df["pass"]).mean()
+# print("Rule Accuracy:", accuracy)
+
+# print(df[["hours_studied","attendance"]].mean())
+#  print(df[["hours_studied","attendance"]].std())
+
+
+and then the if best accuracy have in the rule setup the model picking and the training process.
+
+In Training Process
+
+(Linear Algebra when comes to calcualte weights like matrix multiplications and for optimize using gradient decen that has calculus)
+
+set a random weights and bias (like initially set 0) and learning rate set the loop and train the model 
+using the exact picked up model formula and get the final weight and bias
+
+weight means the what feature/features how much matters to the prediction outcome to prove my actual hand written rule
+
+
+(Probability)
+
+finally test the result with random data using already trained weights value/values and bias.
+
+

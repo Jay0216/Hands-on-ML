@@ -1,0 +1,5 @@
+a student pass the exam that he or she will studying hours more than 4.
+a student pass the exam that he or she will studying more than 4 hours and having 65 plus attendance
+if student have pass these mentioned values labled as pass
+
+if not labled as failed.

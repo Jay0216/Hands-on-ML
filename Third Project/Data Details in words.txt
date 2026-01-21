@@ -1,0 +1,36 @@
+first observation
+
+house sqft are in < 1000 but > 800 normally that house cost at 200 dollars or under 200 dollars
+house sqft are in > 1000 but < 1200 normally that house cost at least around greater than 200 dollars but inside 250 dollars (210 dollars, 220 dollars)
+house sqft are in > 1200 but < 1400 normally that type of cost at least around greater than 250 dollars but inside the 300 dollars (255 dollars, 280 dollars)
+house sqft are in > 1400 but < 1600 normally that this type of house cost around 300 dollars but inside the 350 dollars(305, 310, 320)
+house sqft are in > 1600 but < 1800 normally that this type of house cost around 350 dollars but inside 400 dollars (352, 370)
+house sqft are in > 1800 to 2000 normally that type of house cost around more than 400, 450 dollars.
+
+second observation
+
+2 bedroom houses are cost 200 dollars or less than 200 dollars
+3 bedroom houses are cost more than 200 dollars upto 300 dollars but less than 300
+4 bedroom houses are cost more than 300 dollars and 350 dollars but less than 400 dollars
+5 bedroom houses are cost more than 400 dollars upto 450 dollars.
+
+third observation
+
+age of the house is below 2.5 years it will be cost around 450 dollars
+age of the house is greater than 5 yrs or below than 12.5 years it will cost around less than 400 dollars but greater than 250 dollars.
+some outliers like data have normally 5yr + below 7.5yr house cost around below 350 dollars but a 7 year age house cost around 370 dollars
+and a 11 or 12 year like one house data cost around 350 dollar  
+age of the house is greater than 12.5 (15yr, 17yr) year cose will be around at below 250 dollars
+
+
+fourth observation
+
+a house distance is 2km or less than 2km it cost around 450 dollars
+a house distance is 3km it cost around 350 - 300 dollar range(320 dollar, 300 dollar)
+a house distance is 4km it cost 350 dollar
+a house distance is 5km it cost around 250 dollar (normal way) but it also has 370 dollar house (outlier, abnormal pattern)
+a house distance is 6km range it cost below 300 but gretear than 250 dollar (280 dollar, 270 dollar)
+a house distance is 7km range normally it cost below 250 dollars (210 dollars)
+a house distance is 8km range normally it cost below 200 dollars (180 dollars)
+a house distance is 10km range normally it cost 200 dollars (200) (abnormal, outlier)
+

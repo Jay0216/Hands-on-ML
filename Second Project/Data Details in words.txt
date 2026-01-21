@@ -1,0 +1,14 @@
+
+first observation
+
+if a person age > 38 and cholestrol level 240 > heart is in risky mode to heart attack
+if a person age < 38 and cholestrol level < 240 heart is not or light mode in heart attack but be aware and control
+
+second observation 
+
+also if a person bmi index > 29 and blood pressure rate > 140 heart is in riskiy mode to heart attack
+and also if a person bmi index < 29 and blood pressure rate < 140 heart is in light riskiar mode but be aware and control
+
+
+
+
